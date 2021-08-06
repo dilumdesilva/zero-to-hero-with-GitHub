@@ -15,16 +15,15 @@ This is a hands-on session to help the ****anyone**** to get familiar with GitHu
 2) My first ****GitHub Repository****.
 
 3) How to maintain a project with GitHub
+  - My first ****Star****
 
-- My first ****Star****
+  - My first ****Fork****
 
-- My first ****Fork****
+  - My first ****Clone/Download****
 
-- My first ****Clone/Download****
+  - My first ****Commit****
 
-- My first ****Commit****
-
-- My first ****Push****
+  - My first ****Push****
 
 4) How to collaboratively maintain a project with GitHub
 
@@ -118,3 +117,5 @@ This step will help you to upload all your recently made changes to the online g
 ```
 git push
 ```
+
+[Session slides](http://bit.ly/ZeroToHeroWithGitHub)
