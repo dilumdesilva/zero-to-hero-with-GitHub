@@ -118,4 +118,7 @@ This step will help you to upload all your recently made changes to the online g
 git push
 ```
 
-[Session slides](http://bit.ly/ZeroToHeroWithGitHub)
+## Other resouces
+
+- [Session slides](http://bit.ly/ZeroToHeroWithGitHub)
+- [Git Cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
